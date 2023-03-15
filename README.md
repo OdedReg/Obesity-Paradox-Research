@@ -3,7 +3,7 @@ A medical study written in R language in collaboration with Assaf Harofeh Hospit
 
 This file contains 4 sections:
 
-1. Functions:
+1. Functions:<br>
    The functions we wrote and used during the research
    
 2. Analysis of the main research question - what is the association between BMI and mortality for different time horizons.
