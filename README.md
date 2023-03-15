@@ -8,7 +8,7 @@ This file contains 4 sections:
    
 2. Analysis of the main research question - what is the association between BMI and mortality for different time horizons.<br>
    We examined the effect of BMI, age and gender on hospitalization mortality in three time frames - immediate time (up to 3 months), 1 year and 5 years.<br>
-   We used 3 different analysis methods:<br>
+   We used 3 different analysis methods:
     - Logistic regression on continuous BMI
     - Logistic regression on BMI groups
     - Survival analysis
